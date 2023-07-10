@@ -198,14 +198,14 @@ const Sidebar = () => {
                         />
                         <Item
                             title="Line Chart"
-                            to="/linechart"
+                            to="/line"
                             icon={<TimelineOutlinedIcon />}
                             selected={selected}
                             setSelected={setSelected}
                         />
                         <Item
                             title="Geography Chart"
-                            to="/geographychart"
+                            to="/geography"
                             icon={<MapOutlinedIcon />}
                             selected={selected}
                             setSelected={setSelected}
